@@ -1,3 +1,5 @@
+*CSS 선택자*
+
 1.input type selector
 
         <style>
